@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface CustomLayout : UICollectionViewFlowLayout
-
+@property (nonatomic,assign) float width;
 @end
