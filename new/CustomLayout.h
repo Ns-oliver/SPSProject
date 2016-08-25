@@ -10,5 +10,5 @@
 
 @interface CustomLayout : UICollectionViewFlowLayout
 @property (nonatomic,assign) float flowWidth;
-
+@property (nonatomic,assign) float flowHeight;
 @end
